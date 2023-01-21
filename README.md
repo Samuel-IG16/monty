@@ -1,4 +1,2 @@
 # monty
 ## Description 
-
-new
